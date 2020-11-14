@@ -1,11 +1,11 @@
 ---
 title: About
-date: 2019-07-09
+date: 2020-13-11
 menu:
   main:
     weight: 999
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> A personal website on all things, techncal.
 
 ## How to use?
 
